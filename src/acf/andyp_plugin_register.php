@@ -2,9 +2,9 @@
 
 add_action( 'plugins_loaded', function() {
     do_action('register_andyp_plugin', [
-        'title'     => 'Post/Page Body Classes',
+        'title'     => 'WP - Post/Page Body Classes',
         'icon'      => 'file-code',
-        'color'     => '#76FF03',
+        'color'     => '#82B1FF',
         'path'      => __FILE__,
     ]);
 } );

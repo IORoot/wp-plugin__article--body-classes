@@ -3,7 +3,7 @@
 /*
  * 
  * @wordpress-plugin
- * Plugin Name:       _ANDYP - Body Classes & Title Edit for Posts & Pages
+ * Plugin Name:       _ANDYP - WP - Body Classes & Title Edit for Posts & Pages
  * Plugin URI:        http://londonparkour.com
  * Description:       <strong>🎛PANEL</strong> | <em>Page/Post > Edit page.</em> | Allows you to add manually add classes into the <body> tag of the page/post. Also update the <title>
  * Version:           1.0.0
